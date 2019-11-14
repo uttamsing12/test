@@ -1,0 +1,9 @@
+.left {
+  float: right;
+}  
+.right{
+   float: right;
+}
+div[uttam='singh']{
+	color:red;
+}
